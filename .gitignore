@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# Application Data & Secrets
+autoreach.db
+autoreach.log
+autoreach_settings.json
+.env
+
+# Generated Output Folders
+backups/
+screenshots/
+reports/
+
+# OS Files
+.DS_Store
+Thumbs.db

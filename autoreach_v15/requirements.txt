@@ -1,0 +1,5 @@
+pyautogui
+pyperclip
+pygetwindow
+pillow
+pystray
